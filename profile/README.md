@@ -11,7 +11,7 @@
 |:-:|:-:|:-:|
 |<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/2a9d34f0-7330-40d1-a89a-837fb323adcb">|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/505c63f6-fc19-482b-aa08-d8b6413ed0b1">|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/b1ba1bb3-7e94-42d7-b1a1-1a1001734ff1">
 |<b>거래 내용 작성</b>|<b>인적사항 작성</b>|<b>페이릿 상세화면</b>|
-|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/ee582927-8b86-4a78-9918-964b848e38d4">|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/749bd7b0-6d8d-4c14-bcc3-4420aa0047fe">|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/d5331acb-f4d1-42bd-99a4-84a0a5f8c9e9">|
+|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/ee582927-8b86-4a78-9918-964b848e38d4">|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/749bd7b0-6d8d-4c14-bcc3-4420aa0047fe">|<img src="https://github.com/AlltimeOwl/Backend/assets/39723465/f6258b41-ec99-4630-b817-aefc005377f6">|
 
 ## 🛠 Tech Stacks
 
