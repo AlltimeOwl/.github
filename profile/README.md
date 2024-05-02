@@ -13,16 +13,6 @@
 [카카오톡 채널](https://pf.kakao.com/_djxmxiG)
 
 ## 🖥 서비스 화면
-<style>
-  .image-container {
-    max-width: 390px;
-    max-height: 840px;
-  }
-  .image-container img {
-    width: 100%;
-    height: auto;
-  }
-</style>
 
 <table align="center">
   <tr>
