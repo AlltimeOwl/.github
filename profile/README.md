@@ -36,11 +36,10 @@
     <th><code>카드 랜덤뽑기</code></th>
   </tr>
   <tr>
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/b47b1c05-1a53-4b63-8014-c07d7c772c14" alt="푸시알림"></td>
-    <td><img src="https://github.com/AlltimeOwl/Backend/assets/39723465/749bd7b0-6d8d-4c14-bcc3-4420aa0047fe" alt="이상형 월드컵">
-    <td><img src="https://github.com/AlltimeOwl/Backend/assets/39723465/f6258b41-ec99-4630-b817-aefc005377f6" alt="랜덤 박스"></td>
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/ed1c2325-fb47-4f51-be0a-abd91b8d5c83)
-/115560272/b47b1c05-1a53-4b63-8014-c07d7c772c14" alt="카드 랜덤뽑기"></td>
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/b47b1c05-1a53-4b63-8014-c07d7c772c14" alt="거래 내용 작성"></td>
+    <td><img src="https://github.com/AlltimeOwl/Backend/assets/39723465/749bd7b0-6d8d-4c14-bcc3-4420aa0047fe" alt="인적사항 작성">
+    <td><img src="https://github.com/AlltimeOwl/Backend/assets/39723465/f6258b41-ec99-4630-b817-aefc005377f6" alt="페이릿 상세화면"></td>
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/86e4e6e4-cb96-4714-8838-e59c11b4a637" alt="카드 랜덤뽑기"></td>
   </tr>
 </table>
 
