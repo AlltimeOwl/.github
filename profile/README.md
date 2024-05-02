@@ -21,10 +21,10 @@
     <th><code>마이페이지</code></th>
   </tr>
   <tr>
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/ef2880bc-8ee3-4385-806a-3b52a76362d0" width="360" alt="소셜 로그인">
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/ea8d5310-2acf-486f-b29c-7944c7d39f86" width="360" alt="홈 화면">
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/4fa6bf9e-b166-4a58-a10a-942b1f903083" width="360" alt="작성하기">
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/28f4d945-8e18-4a5e-bac0-5902ac534449" width="360" alt="마이페이지">
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/ef2880bc-8ee3-4385-806a-3b52a76362d0" alt="소셜 로그인">
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/ea8d5310-2acf-486f-b29c-7944c7d39f86" alt="홈 화면">
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/4fa6bf9e-b166-4a58-a10a-942b1f903083" alt="작성하기">
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/28f4d945-8e18-4a5e-bac0-5902ac534449" alt="마이페이지">
   </tr>
 </table>
 
