@@ -39,7 +39,7 @@
     <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/bdd3e0d1-8d7d-4a0b-ba2c-78a360a6825f" alt="거래 내용 작성"></td>
     <td><img src="https://github.com/AlltimeOwl/Backend/assets/39723465/749bd7b0-6d8d-4c14-bcc3-4420aa0047fe"  alt="인적사항 작성"></td>
     <td><img src="https://github.com/AlltimeOwl/Backend/assets/39723465/f6258b41-ec99-4630-b817-aefc005377f6" alt="페이릿 상세화면"></td>
-    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/69bcd593-030b-40de-90fc-be42450c7feb" alt="카드 랜덤뽑기"></td>
+    <td><img src="https://github.com/AlltimeOwl/PayRit-iOS/assets/115560272/4fde884c-bd18-48cf-bb5d-f7c0cf8afd66" alt="카드 랜덤뽑기"></td>
   </tr>
 </table>
 
