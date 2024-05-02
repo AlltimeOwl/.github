@@ -5,6 +5,8 @@
 
 ## 소개
 [랜딩페이지 둘러보기👀](https://payrit.info)
+[구글 플레이스토어](https://play.google.com/store/apps/details?id=com.alltimeowl.payrit)
+[앱 스토어](https://apps.apple.com/kr/app/%ED%8E%98%EC%9D%B4%EB%A6%BF-payrit/id6480038044)
 
 ## 🖥 서비스 화면
 |소셜 로그인|홈 화면|작성 시작 탭|
